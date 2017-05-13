@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="subscriber_list" timestamp="2017-05-06T20:16:12" time="349.577" tests="0" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="Subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_navigate_to_subscriber_list" timestamp="2017-05-06T20:16:12" time="45.057" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can navigate to subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_open_ubo_webapp" time="383.946"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="369.222"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_navigate_to_subscriber_list" time="368.323"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_subscriber_list" time="361.725"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_paid_up_button" time="361.485"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_navigate_to_subscriber_list" timestamp="2017-05-06T20:16:57" time="17.276" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can navigate to subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_open_ubo_webapp" time="338.888"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="338.607"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_navigate_to_subscriber_list" time="337.418"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_subscriber_list" time="333.196"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_due_button" time="332.893"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_navigate_to_subscriber_list" timestamp="2017-05-06T20:17:14" time="15.868" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can navigate to subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_open_ubo_webapp" time="321.61"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="321.37"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_navigate_to_subscriber_list" time="320.609"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_subscriber_list" time="316.477"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_past_due_button" time="316.322"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_navigate_to_subscriber_list" timestamp="2017-05-06T20:17:30" time="16.271" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can navigate to subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_open_ubo_webapp" time="305.74"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="305.464"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_navigate_to_subscriber_list" time="304.552"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_subscriber_list" time="299.921"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_suspended_button" time="299.745"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_navigate_to_subscriber_list" timestamp="2017-05-06T20:17:46" time="15.379" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can navigate to subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_open_ubo_webapp" time="289.471"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="289.273"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_navigate_to_subscriber_list" time="288.591"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_subscriber_list" time="284.317"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_hibernated_button" time="284.185"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_navigate_to_subscriber_list" timestamp="2017-05-06T20:18:02" time="15.566" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can navigate to subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_open_ubo_webapp" time="274.093"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="273.934"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_navigate_to_subscriber_list" time="272.89"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_subscriber_list" time="268.552"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_inactive_button" time="268.4"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_navigate_to_subscriber_list" timestamp="2017-05-06T20:18:17" time="56.651" tests="5" failures="0" errors="1" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can navigate to subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_open_ubo_webapp" time="258.526"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="258.328"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_navigate_to_subscriber_list" time="257.641"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_subscriber_list" time="253.48"/>
+    <testcase classname="phantomjs.as_a_user_i_can_navigate_to_subscriber_list" name="i_see_deleted_button" time="253.319">
+      <error message="element (#tbl-subscribers_wrapper > div.dt-toolbar > div.col-xs-12.col-sm-9 > div > a.btn.btn-default.btn-filter-deleted.active > span) still not existing after 50000ms"/>
+      <system-err>
+        <![CDATA[
+Error: element (#tbl-subscribers_wrapper > div.dt-toolbar > div.col-xs-12.col-sm-9 > div > a.btn.btn-default.btn-filter-deleted.active > span) still not existing after 50000ms
+    at Object.wait (C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\fibers\future.js:449:15)
+    at Object.waitForExist (C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\wdio-sync\build\index.js:330:27)
+    at World.<anonymous> (C:\Users\ehtesham\Documents\GitHub\VISPdevteam\VISP-Automation\features\steps\subscriberlist_steps.js:169:29)
+    at C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\wdio-sync\build\index.js:578:26
+    at Promise.F (C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\core-js\library\modules\_export.js:35:28)
+    at World.executeSync (C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\wdio-sync\build\index.js:576:12)
+    at C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\wdio-sync\build\index.js:191:29
+    at elements("#tbl-subscribers_wrapper > div.dt-toolbar > div.col-xs-12.col-sm-9 > div > a.btn.btn-default.btn-filter-deleted.active > span") - C:\Users\ehtesham\AppData\Roaming\npm\node_modules\webdriverio\build\lib\commands\isExisting.js:46:17
+    at isExisting("#tbl-subscribers_wrapper > div.dt-toolbar > div.col-xs-12.col-sm-9 > div > a.btn.btn-default.btn-filter-deleted.active > span") - C:\Users\ehtesham\AppData\Roaming\npm\node_modules\webdriverio\build\lib\commands\waitForExist.js:37:22
+]]>
+      </system-err>
+    </testcase>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" timestamp="2017-05-06T20:19:14" time="18.893" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can filter records based on buttons available on subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_open_ubo_webapp" time="201.872"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="201.559"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_navigate_to_subscriber_list" time="200.465"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_click_on_inactive_button" time="195.532"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_see_records_of_inactive_status_only" time="183.283"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" timestamp="2017-05-06T20:19:33" time="56.728" tests="5" failures="0" errors="1" skipped="1">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can filter records based on buttons available on subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_open_ubo_webapp" time="182.98"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="182.776"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_navigate_to_subscriber_list" time="181.467"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_click_on_deleted_button" time="177.446">
+      <error message="element (#tbl-subscribers_wrapper > div.dt-toolbar > div.col-xs-12.col-sm-9 > div > a.btn.btn-default.btn-filter-deleted.active > span) still not existing after 50000ms"/>
+      <system-err>
+        <![CDATA[
+Error: element (#tbl-subscribers_wrapper > div.dt-toolbar > div.col-xs-12.col-sm-9 > div > a.btn.btn-default.btn-filter-deleted.active > span) still not existing after 50000ms
+    at Object.wait (C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\fibers\future.js:449:15)
+    at Object.waitForExist (C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\wdio-sync\build\index.js:330:27)
+    at World.<anonymous> (C:\Users\ehtesham\Documents\GitHub\VISPdevteam\VISP-Automation\features\steps\subscriberlist_steps.js:102:29)
+    at C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\wdio-sync\build\index.js:578:26
+    at Promise.F (C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\core-js\library\modules\_export.js:35:28)
+    at World.executeSync (C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\wdio-sync\build\index.js:576:12)
+    at C:\Users\ehtesham\AppData\Roaming\npm\node_modules\wdio-cucumber-framework\node_modules\wdio-sync\build\index.js:191:29
+    at elements("#tbl-subscribers_wrapper > div.dt-toolbar > div.col-xs-12.col-sm-9 > div > a.btn.btn-default.btn-filter-deleted.active > span") - C:\Users\ehtesham\AppData\Roaming\npm\node_modules\webdriverio\build\lib\commands\isExisting.js:46:17
+    at isExisting("#tbl-subscribers_wrapper > div.dt-toolbar > div.col-xs-12.col-sm-9 > div > a.btn.btn-default.btn-filter-deleted.active > span") - C:\Users\ehtesham\AppData\Roaming\npm\node_modules\webdriverio\build\lib\commands\waitForExist.js:37:22
+]]>
+      </system-err>
+    </testcase>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_see_records_of_deleted_status_only" time="0">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" timestamp="2017-05-06T20:20:30" time="16.046" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can filter records based on buttons available on subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_open_ubo_webapp" time="126.249"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="125.987"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_navigate_to_subscriber_list" time="124.919"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_click_on_paid_up_button" time="120.17"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_see_records_of_paid_up_status_only" time="110.389"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" timestamp="2017-05-06T20:20:46" time="14.812" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can filter records based on buttons available on subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_open_ubo_webapp" time="110.204"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="110.026"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_navigate_to_subscriber_list" time="109.173"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_click_on_due_button" time="104.826"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_see_records_of_due_status_only" time="95.439"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" timestamp="2017-05-06T20:21:01" time="14.53" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can filter records based on buttons available on subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_open_ubo_webapp" time="95.392"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="95.215"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_navigate_to_subscriber_list" time="94.539"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_click_on_suspended_button" time="90.428"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_see_records_of_suspended_status_only" time="81.066"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" timestamp="2017-05-06T20:21:15" time="14.796" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can filter records based on buttons available on subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_open_ubo_webapp" time="80.862"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="80.687"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_navigate_to_subscriber_list" time="79.827"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_click_on_hibernated_button" time="75.752"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_see_records_of_hibernated_status_only" time="66.248"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" timestamp="2017-05-06T20:21:30" time="16.643" tests="5" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can filter records based on buttons available on subscriber list"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_open_ubo_webapp" time="66.065"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="65.874"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_navigate_to_subscriber_list" time="65.226"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_click_on_past_due_button" time="61.294"/>
+    <testcase classname="phantomjs.as_a_user_i_can_filter_records_based_on_buttons_available_on_subscriber_list" name="i_see_records_of_past_due_status_only" time="49.57"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_see_add_filter_option" timestamp="2017-05-06T20:21:47" time="15.043" tests="4" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5e6222bb1516f83aba9d18d8eb94371b"/>
+      <property name="suiteName" value="As a user, I can see Add filter option"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\subscriberlist.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_see_add_filter_option" name="i_open_ubo_webapp" time="49.422"/>
+    <testcase classname="phantomjs.as_a_user_i_can_see_add_filter_option" name="i_login_with_username_dreamteam9_and_password_str0ngp_ss9" time="49.304"/>
+    <testcase classname="phantomjs.as_a_user_i_can_see_add_filter_option" name="i_navigate_to_subscriber_list" time="48.688"/>
+    <testcase classname="phantomjs.as_a_user_i_can_see_add_filter_option" name="i_see_add_filter_push_button" time="44.046"/>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="login" timestamp="2017-05-06T20:22:09" time="26.513" tests="0" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="3fb89e07cdeb46ee2c2d1c0b3678c4c6"/>
+      <property name="suiteName" value="Login"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\login.feature"/>
+    </properties>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_login_to_system_with_valid_credentials" timestamp="2017-05-06T20:22:09" time="20.288" tests="3" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="3fb89e07cdeb46ee2c2d1c0b3678c4c6"/>
+      <property name="suiteName" value="As a user, I can login to system with valid credentials"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\login.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_login_to_system_with_valid_credentials" name="i_open_visp_webapp" time="27.395"/>
+    <testcase classname="phantomjs.as_a_user_i_can_login_to_system_with_valid_credentials" name="i_fillout_in_login_as_dreamteam10_and_password_as_str0ngp_ss10" time="13.651"/>
+    <testcase classname="phantomjs.as_a_user_i_can_login_to_system_with_valid_credentials" name="i_see_the_dashboard" time="12.911"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_can_login_to_system_with_valid_credentials" timestamp="2017-05-06T20:22:29" time="3.235" tests="3" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="3fb89e07cdeb46ee2c2d1c0b3678c4c6"/>
+      <property name="suiteName" value="As a user, I can login to system with valid credentials"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\login.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_can_login_to_system_with_valid_credentials" name="i_open_visp_webapp" time="7.104"/>
+    <testcase classname="phantomjs.as_a_user_i_can_login_to_system_with_valid_credentials" name="i_fillout_in_login_as_dreamteam1_and_password_as_str0ngp_ss1" time="6.834"/>
+    <testcase classname="phantomjs.as_a_user_i_can_login_to_system_with_valid_credentials" name="i_see_the_dashboard" time="6.109"/>
+  </testsuite>
+  <testsuite name="as_a_user_i_cannot_login_to_system_with_invalid_credentials" timestamp="2017-05-06T20:22:32" time="2.984" tests="3" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="3fb89e07cdeb46ee2c2d1c0b3678c4c6"/>
+      <property name="suiteName" value="As a user, I CANNOT login to system with invalid credentials"/>
+      <property name="capabilities" value="phantomjs"/>
+      <property name="file" value=".\features\login.feature"/>
+    </properties>
+    <testcase classname="phantomjs.as_a_user_i_cannot_login_to_system_with_invalid_credentials" name="i_open_visp_webapp" time="3.871"/>
+    <testcase classname="phantomjs.as_a_user_i_cannot_login_to_system_with_invalid_credentials" name="i_fillout_in_login_as_team10_and_password_as_str0ngp_ss10" time="3.626"/>
+    <testcase classname="phantomjs.as_a_user_i_cannot_login_to_system_with_invalid_credentials" name="i_see_the_error_message_invalid_username_or_password" time="2.575"/>
+  </testsuite>
+</testsuites>
